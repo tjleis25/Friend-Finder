@@ -1,8 +1,10 @@
 # Friend-Finder
 
-Friend-Finder is a full-stack compatibility-based application that gathers results from your users' surveys, then compares their answers with those from other users already in the database. The app then displays the name and picture of the user with the best overall match. 
+Friend-Finder is a full-stack compatibility-based application that gathers results from you (the user's) survey, and then compares your answers with those from other users already in the database. The app then displays the name and picture of the user with the best overall match. 
 
-Express to handle routing between the client side and local server.This app has been deployed to Heroku for others users to try. Please see pictures below: 
+Express was used to handle routing between the client side and server side.
+
+This app has been deployed to Heroku for others users to try. Please see pictures below: 
 
 ![screenshot 37](https://user-images.githubusercontent.com/38323356/43966683-8f9f634c-9c90-11e8-9683-ecb97c494cba.png)
 ![screenshot 38](https://user-images.githubusercontent.com/38323356/43966699-97065ae6-9c90-11e8-95f3-84a39d97dace.png)
